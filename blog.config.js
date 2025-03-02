@@ -1,13 +1,13 @@
 const BLOG = {
   title: 'SEITEKI',
   author: 'Latecease',
-  email: '123',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  email: 'susanashk24705yoder@gmail.com',
+  link: 'https://seiteki.vercel.app/',
+  description: '性開、正解、世界、清快、精一杯。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
-  font: 'sans-serif', // ['sans-serif', 'serif']
+  font: 'serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
